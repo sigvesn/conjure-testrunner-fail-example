@@ -1,0 +1,4 @@
+^{:watch-dirs          ["src"]
+  :cljs-devtools       true
+  :open-file-command   "emacsclient"}
+{:main              "parser.core"}
