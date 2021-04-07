@@ -1,3 +1,5 @@
+Mininmal clojurescript clj figwheel project to demonstrate "clojure" test runner not working in conjure 4.17, but does work in 4.16.
+
 Start repl
 
 `clj -M:cider`
